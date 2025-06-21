@@ -1,6 +1,6 @@
 Sama dengan ajaran stoik, tentang aib kita
 Pena,arsy,dan air
-
+Hehehehe
 
 Turob, tanah kering
 
