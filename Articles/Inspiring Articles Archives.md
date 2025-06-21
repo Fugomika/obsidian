@@ -1,0 +1,2 @@
+- [I Used to be the Gold Child]([https://medium.com/@annisatufah/tak-lagi-menjadi-sukses-atau-berhenti-berproses-952073b5e4bc) - Ulan
+- [Cerita Hidup Raymond Chin yang kalian gatau, penyesalan terbesar](https://raymondchins.medium.com/cerita-hidup-raymond-chin-yang-kalian-gatau-penyesalan-terbesar-9bf52a9c3c94)-Raymond Chin
