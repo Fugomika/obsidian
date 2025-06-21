@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "069b98b3b0ace4d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "546bbd94c03d7e1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c1c127b878f522e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Articles/Raw/Lupa ini Apa aja.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lupa ini Apa aja"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "373b875c7db3ba6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e37e16920ed57840",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7552c89474df6379",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "120fd7df5e4dc01b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "938fc8172354b2e5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 457.5
+  },
+  "right": {
+    "id": "4425af84c92b0172",
+    "type": "split",
+    "children": [
+      {
+        "id": "51f8a1c142d2487f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2de9f0cef747f4e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Books/Study Hard Book/3rd Semester/Analisis dan Perancangan Perangkat Lunak/W04 - ELICITATION.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for W04 - ELICITATION"
+            }
+          },
+          {
+            "id": "13525b313fcb271a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Books/Study Hard Book/3rd Semester/Analisis dan Perancangan Perangkat Lunak/W04 - ELICITATION.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from W04 - ELICITATION"
+            }
+          },
+          {
+            "id": "f99efb7333cdea55",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Books/Study Hard Book/3rd Semester/Analisis dan Perancangan Perangkat Lunak/W04 - ELICITATION.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of W04 - ELICITATION"
+            }
+          },
+          {
+            "id": "d7ba2b85fa73c7f2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7552c89474df6379",
+  "lastOpenFiles": [
+    "README.md",
+    "Articles/Raw/Lupa ini Apa aja.md",
+    "Articles/Raw",
+    "Articles/Your Desire is a Test, Why Allah Placed It in Your Heart.md",
+    "desktop.ini",
+    "Articles/Tidying Up Everything, Especially Digitally.md",
+    "Articles/The Science of Pulling an All-Nighter, What Happens to Your Brain and Body.md",
+    "Articles/5 Tahap Kehidupan Rumah Tangga.md",
+    "Articles/Jangan Mulai Bisnis Bareng Temen.md",
+    "Articles/You're Ambitious but Lazy.md",
+    "Articles/Top 10 ChatGPT prompts to learn anything 10 times faster.md",
+    "Articles/The Barnum Effect, Why General Statements Feel So Personal.md",
+    "Articles/Mengenal Mother Sauces, Dasar dari Segala Saus.md",
+    "Articles/Protect Your Hearing. The Truth About Headphones, Noise, and Your Precious Ears.md",
+    "Articles/Freshman, Sophomore, Junior, Senior, dan Super Senior.md",
+    "Articles/Kevin Meal Plan for 30 Days Experiment!.md",
+    "Articles/10 Strategi dari Ade Rai untuk Mengatasi Perut Buncit.md",
+    "Articles/5 Fundamental Coding Principles to Revolutionize Your Programming Journey.md",
+    "Articles/6 Japanese Techniques to Overcome Laziness.md",
+    "Articles/Body Recomposition.md",
+    "Articles/Why Everyone Obsessed with Notion.md",
+    "Articles/4 Pesan Dari Tradisi China.md",
+    "Articles/How to Make Smart Decisions More Easily.md",
+    "Articles/The 5 AM Club.md",
+    "Articles/Inspiring Articles Archives.md",
+    "Articles/Dopamine Detox.md",
+    "Articles/Pornography Effects.md",
+    "Articles/Intermittent Fasting.md",
+    "Resources/img/Pasted image 20241107051203.png",
+    "Resources/img/Pasted image 20241011171709.png",
+    "Resources/files/103042310070 Registrasi _ Telkom University.pdf",
+    "Resources/files/KUR24_AKA_W06_ID.pdf",
+    "Books/Study Hard Book/3rd Semester/Analisis Kompleksitas Algoritma/W06 - MATHEMATICAL ANALYSIS OF ITERATIVE ALGORITHM.pdf",
+    "Resources/files/KUR24_AKA_W04_ID-2.pdf",
+    "Books/Study Hard Book/3rd Semester/Stuktur Data/Praktikum",
+    "Resources/files/Minggu 4 CRJ2A3 Teknik Elisitasi-SWD.pdf",
+    "Resources/files/Minggu 3 Rekayasa Kebutuhan-SWD.pdf",
+    "Resources/files/Minggu 2 Model Proses PL-SWD.pdf",
+    "Untitled.canvas",
+    "Image/Furina_and_Hu_Tao_ikuyo_in_4K60 (1).gif",
+    "Image/Screenshot_10.png"
+  ]
+}
